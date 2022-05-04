@@ -9,3 +9,6 @@ The TypeRacer hack is a very good and strong hack, it is a copy and paste hack.
 
 # Keybr Hack Info
 we are unsure if it will work in V1 of the client, because the testing console says it works but we cannot test currently
+
+# IMPORTANT
+Typeracer and Keybr are named but MonkeyType is unnamed, keep in mind
